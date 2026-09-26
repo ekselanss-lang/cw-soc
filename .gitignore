@@ -1,0 +1,4 @@
+.sifre
+*.tar.gz
+src/
+!kaynak.enc
